@@ -10,10 +10,6 @@ head();?>
 
   <span style="font-style: italic;"></span></a>E-mail: <a href="mailto:mikerova@gala-persona.ru">Mikerova@gala-persona.ru</a>  <br />
 
-      или<br />
-      По адресу в Санкт-Петербурге:<br />
-      <a href="mailto:mikerova@gala-persona.ru">hr20@gala-persona.ru</a>  <br />
-
   <small><span style="color: rgb(177, 122, 4);"></span></small></span>
   
   

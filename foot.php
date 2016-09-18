@@ -58,12 +58,6 @@ function foot($num) {
                             (909) 996-90-04
                             <br />(495) 798-11-74</p>
                     </div>
-                    <div class=\"col c3\">
-                        <h2><span>Санкт-петербург</span></h2>
-                        <p>В.О., 4-я линия, д.11, лит.А, пом. 1-Н<br /><br /><br />
-                        <a href=\"mailto:hr20@gala-persona.ru\">Руководитель офиса<br />в Санкт-Петербурге<br />Юлия Байдалакова</a><br />
-                            (921) 566-77-52</p>
-                    </div>
                     <div class=\"clr\"></div>
                 </div>
             </div>
@@ -71,7 +65,7 @@ function foot($num) {
         </div>
         <div class=\"footer\">
             <div class=\"footer_resize\">
-              <p class=\"lf\">Компания «ГАЛА-персона» основана в 2005 году © 2005-2015 All Rights Reserved.</p>
+              <p class=\"lf\">Компания «ГАЛА-персона» основана в 2005 году © 2005-2016 All Rights Reserved.</p>
 <div class=\"clr\"></div>
             </div>
         </div>
