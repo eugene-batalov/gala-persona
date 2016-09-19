@@ -20,7 +20,7 @@ head();?>
   <span style="font-style: italic;">
 Генеральный директор</span><br style="font-style: italic;" />
   <span style="font-style: italic;">
-&nbsp;8 (495) 798-11-74</span><br style="font-style: italic;" />
+&nbsp;8 8 (903) 798-11-74</span><br style="font-style: italic;" />
  </a>E-mail: <a href="mailto:mikerova@gala-persona.ru">mikerova@gala-persona.ru</a><br />
   <div style="text-align: left;">
 &nbsp;Также мы всегда рады новым партнёрам в регионах РФ и СНГ:

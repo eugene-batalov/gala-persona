@@ -33,7 +33,7 @@ call-центра, промоутеры, операторы ПК, менедже
           <tbody>
           <tr>
               <td><small><span style="font-weight: bold;">+7
-(495) 798-11-74</span><br />
+8 (903) 798-11-74</span><br />
                   E-mail: <a href="mailto:mikerova@gala-persona.ru">Mikerova@gala-persona.ru</a> <br />
                   Генеральный директор<br />
                   <span style="font-weight: bold;">Ольга Микерова</span></small></td>

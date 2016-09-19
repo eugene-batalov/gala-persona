@@ -40,7 +40,7 @@ echo "
                     <div class=\"logo\">
                         <h1><a href=\"index.html\"><img src=\"images/logo-2015_4.gif\" width=\"510\" alt=\"\"/></a></h1>
                     </div>
-                    <p> <span style=\"font-size: 16px; color: #686868;\">В Москве:<span style=\"color: #F1680E\"> 8 (495) 670-08-70; 8 (903) 798-11-74; 8 (909) 996-90-04</span><br/>В Санкт-Петербурге: <span style=\"color: #F1680E\">8 (921) 566-77-52</span></span></p>
+                    <p> <span style=\"font-size: 16px; color: #686868;\">В Москве:<span style=\"color: #F1680E\"> 8 (903) 798-11-74; 8 (909) 996-90-04</span><br/>В Санкт-Петербурге: <span style=\"color: #F1680E\">8 (921) 566-77-52</span></span></p>
                     <span style=\"text-align: justify\"></span>
                     <div class=\"clr\">
                         <p>&nbsp;</p>
